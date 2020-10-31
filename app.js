@@ -11,6 +11,7 @@ images[1] = 'images/mandela1.jpg';
 images[2] = 'images/mandela2.jpg';
 images[3] = 'images/mandela3.jpg';
 images[4] = 'images/mandela4.jpg';
+images[5] = 'images/mandela5.jpg';
 
 // function to change image 
 
